@@ -1,0 +1,15 @@
+h1 {
+  color: red;
+  text-align: center;
+}
+
+.container {
+  width: 80%;
+  margin: 5% auto;
+}
+
+h2 {
+  color: greenyellow;
+  font-weight: normal;
+  text-decoration: underline;
+}
